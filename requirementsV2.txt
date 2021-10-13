@@ -1,0 +1,8 @@
+request~=2.24.0
+bs4~=0.0.1
+pandas~=2.24.0
+regex~=2020.10.15
+pandastable~=0.12.2.post1
+tk~=0.1.0
+tkinter~=8.6
+
